@@ -3,7 +3,7 @@ def text():
 
 text()
 
-def text():
+def text2():
     print("ola mundo2")
 
 text()
